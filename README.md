@@ -48,8 +48,8 @@ The project emphasizes **social responsibility, safety-first design, and STEM ed
 - Task checklist added for development tracking
   
 ## Main contributors
-<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+<a href = "https://github.com/Mtt1-dev/Proyect-Ak9/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=Mtt1-dev/Proyect-Ak9"/>
 </a>
 
 ## Intended Use
@@ -72,4 +72,4 @@ All contributions should align with the project’s educational and humanitarian
 Project AK-9 is a prototype and **not certified for professional or industrial safety-critical use**.
 
 ## Useless numbers
-[![Star History Chart](https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT,madushadhanushka/github-readme&type=Date)](https://www.star-history.com/#Significant-Gravitas/AutoGPT&madushadhanushka/github-readme&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Mtt1-dev/Proyect-Ak9&type=Date)](https://www.star-history.com/#Mtt1-dev/Proyect-Ak9&Date)
