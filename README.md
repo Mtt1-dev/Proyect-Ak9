@@ -46,8 +46,11 @@ The project emphasizes **social responsibility, safety-first design, and STEM ed
 - Hardware components selected and documented
 - Safety-focused objectives defined
 - Task checklist added for development tracking
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  
+## Main contributors
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+</a>
 
 ## Intended Use
 - Preliminary inspection of archaeological sites
@@ -67,3 +70,6 @@ All contributions should align with the project’s educational and humanitarian
 
 ## Disclaimer
 Project AK-9 is a prototype and **not certified for professional or industrial safety-critical use**.
+
+## Useless numbers
+[![Star History Chart](https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT,madushadhanushka/github-readme&type=Date)](https://www.star-history.com/#Significant-Gravitas/AutoGPT&madushadhanushka/github-readme&Date)
