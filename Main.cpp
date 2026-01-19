@@ -1,3 +1,10 @@
+/*  
+                          IMPORTANT!: Use this url 
+        https://www.arducam.com/downloads/Pico/package_pico4ML_index.json  
+                File>Preferences>'Additional Board Manager URLs'  
+    And download the Raspberry Pi Pico/RP2040/RP2350 package in the boards manager
+*/
+
 #include <WiFi.h>
 #include <WebServer.h>
 #include <Servo.h>
