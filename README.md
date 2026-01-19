@@ -14,11 +14,12 @@ The project emphasizes **social responsibility, safety-first design, and STEM ed
 
 ## Hardware Components
 - Raspberry Pi Pico W  
-- ArduCam camera module  
+- ArduCam HM01B0
 - 4 × DC motors  
 - 2 × servo motors  
-- 2 × acrylic bases (chassis)  
-- Motor drivers  
+- 2 × acrylic bases (chassis)
+- Microfono KY-037
+- Motor driver L298N  
 - Battery power system  
 
 ## Core Features
@@ -32,10 +33,10 @@ The project emphasizes **social responsibility, safety-first design, and STEM ed
 - [x] Define project mission and safety goals  
 - [x] Design rover chassis  
 - [x] Integrate DC motors for movement  
-- [ ] Implement servo-based camera control  
-- [ ] Connect and configure ArduCam  
-- [ ] Set up Raspberry Pi Pico W  
-- [ ] Implement wireless control interface  
+- [X] Implement servo-based camera control  
+- [X] Connect and configure ArduCam  
+- [X] Set up Raspberry Pi Pico W  
+- [X] Implement wireless control interface  
 - [ ] Improve camera streaming stability  
 - [ ] Add obstacle detection for safety  
 - [ ] Final testing and validation  
